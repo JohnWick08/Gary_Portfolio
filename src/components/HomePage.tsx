@@ -107,7 +107,7 @@ const HomePage = () => {
                 </div>
 
                 <div className="project-card">
-                    <img className="project-image" src="src/img/proj1.png" alt="project Three Image"/>
+                    <img className="project-image" src="/proj1.png" alt="project Three Image"/>
                     <h3>JIA Option Map</h3>
                     <p className="subtext">My honors project that uses react to build a website that takes real-life
                         patients through a five-step process where they describe their pain, express their preferences,
