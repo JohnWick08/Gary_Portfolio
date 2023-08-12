@@ -67,7 +67,7 @@ const HomePage = () => {
                 </p>
             </div>
             <div className="headshot-container">
-                <img className="headshot" src="src/img/photo.jpeg" alt="Gary's photo"/>
+                <img className="headshot" src="/photo.jpeg" alt="Gary's photo"/>
             </div>
         </section>
 
